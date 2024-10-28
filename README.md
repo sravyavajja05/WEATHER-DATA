@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# WEATHER DATA APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project was Designed to Know about the weather of a particular location or city. User prompts a city and respected Weather update is displayed.
 
 ## Available Scripts
 
